@@ -74,6 +74,10 @@ exports[`1. a full article with all content items with dropcap template 1`] = `
                 Object {
                   "display": "primary",
                   "ratio": "1500:1000",
+                  "relativeHeight": undefined,
+                  "relativeHorizontalOffset": undefined,
+                  "relativeVerticalOffset": undefined,
+                  "relativeWidth": undefined,
                   "uri": "https://image.io",
                 }
               }
@@ -95,6 +99,10 @@ exports[`1. a full article with all content items with dropcap template 1`] = `
                 Object {
                   "display": "secondary",
                   "ratio": "1500:1000",
+                  "relativeHeight": undefined,
+                  "relativeHorizontalOffset": undefined,
+                  "relativeVerticalOffset": undefined,
+                  "relativeWidth": undefined,
                   "uri": "https://image.io/secondary",
                 }
               }
@@ -116,6 +124,10 @@ exports[`1. a full article with all content items with dropcap template 1`] = `
                 Object {
                   "display": "secondary",
                   "ratio": "1500:1000",
+                  "relativeHeight": undefined,
+                  "relativeHorizontalOffset": undefined,
+                  "relativeVerticalOffset": undefined,
+                  "relativeWidth": undefined,
                   "uri": "https://image.io/inline",
                 }
               }
